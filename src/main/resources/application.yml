@@ -1,0 +1,6 @@
+
+#jwt
+jwt:
+  secret: 65bc99e79391ee3af939de5b099bbcc3aa323f1f17a51b5f7828fdce6e60452ddee960d7a01a984ca185ab499fbceab7af44c9b925c1735d1b2d877a84787092
+  issuer: login-assignment
+except-uri: /ping,/api/v1/auth/**
